@@ -16,31 +16,9 @@ public:
         //         n = nums[i];
         //     }
         // }
-    int count = 1;
-    int maxcount = INT_MIN;
-    int n =nums[0];
+    
         sort(nums.begin(),nums.end());
-        for(int i=1;i<nums.size();i++){    
-            if(nums[i-1]==nums[i]){
-                count++;
-                if(count > maxcount && count > nums.size()/2 ){
-                    maxcount =count ;
-                    n =  nums[i-1];
-                    count =1;
-                }
-            }
-            else{
-                if(count > maxcount && count > nums.size()/2 ){
-                    maxcount =count ;
-                    n =  nums[i-1];
-                    count =1;
-                }
-                else{
-                    count =1;
-                }
-            }
-        }
-
-        return n;
+        int n = nums.size()/2;
+        return nums[n];
     }
 };
