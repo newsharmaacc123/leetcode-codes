@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0134-gas-station](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
