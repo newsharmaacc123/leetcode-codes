@@ -33,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0134-gas-station) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
