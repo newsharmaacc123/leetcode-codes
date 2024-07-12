@@ -62,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
