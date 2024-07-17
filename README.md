@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0141-linked-list-cycle) |
+| [0392-is-subsequence](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/newsharmaacc123/leetcode-codes/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
