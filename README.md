@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0392-is-subsequence) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
