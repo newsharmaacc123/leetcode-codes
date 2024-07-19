@@ -8,12 +8,10 @@ public:
             if(cost>prices[i]){
                 cost = prices[i];
             }
-            else{
+            else if(profit<prices[i]-cost){
                 profit = prices[i]-cost;
-                max_profit = max(profit,max_profit);
-                profit=0;
             }
         }
-        return max_profit==INT_MIN?0:max_profit;
+        return profit;
     }
 };
