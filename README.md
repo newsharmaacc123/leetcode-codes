@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0198-house-robber) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/newsharmaacc123/leetcode-codes/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Breadth-First Search
 |  |
 | ------- |
