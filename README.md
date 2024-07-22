@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/newsharmaacc123/leetcode-codes/tree/master/1013-fibonacci-number) |
@@ -78,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/newsharmaacc123/leetcode-codes/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0086-partition-list) |
