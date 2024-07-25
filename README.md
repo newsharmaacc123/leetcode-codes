@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1013-fibonacci-number](https://github.com/newsharmaacc123/leetcode-codes/tree/master/1013-fibonacci-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0637-average-of-levels-in-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
