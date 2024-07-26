@@ -21,16 +21,15 @@ public:
             int num = q.size();
             vector<int> hello;
             for(int i=0;i<num;i++){
-                    TreeNode* newnode = q.front();
-                    if(newnode->right) q.push(newnode->right);
-                    if(newnode->left) q.push(newnode->left);
-                    hello.push_back(newnode->val);
+                    if(q.front()->right) q.push(q.front()->right);
+                    if(q.front()->left) q.push(q.front()->left);
+                    hello.push_back(q.front()->val);
                     q.pop();
             }
             if(level==0){
             reverse(hello.begin(),hello.end());   
-             level = 1;
             array.push_back(hello);
+             level = 1;
             }
             else{   
             array.push_back(hello);
