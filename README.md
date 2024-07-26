@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0222-count-complete-tree-nodes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
