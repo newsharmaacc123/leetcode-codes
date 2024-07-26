@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -183,4 +185,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
