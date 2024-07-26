@@ -21,6 +21,21 @@ public:
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         int n=obstacleGrid.size(),m = obstacleGrid[0].size() ;
         vector<vector<int>> dp(n,vector<int>(m,-1));
-        return cal(n-1,m-1,obstacleGrid,dp);
+        
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                int right =0,down=0;
+                if(obstacleGrid[i][j]==1) dp[i][j] = 0;
+                else{
+                    if(i==0&&j==0) dp[0][0] =1;
+                    else{
+                        if(i>0) right = dp[i-1][j];
+                        if(j>0) down = dp[i][j-1];
+                        dp[i][j] = right+down;
+                    } 
+                }
+            }
+        }
+        return dp[n-1][m-1];
     }
 };
