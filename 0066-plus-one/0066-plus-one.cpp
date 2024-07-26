@@ -6,6 +6,7 @@ public:
             if(digits[i]!=9){
                 digits[i] = digits[i]+carry;
                 carry = 0;
+                break;
             }
             else{
                 if(carry==1){
