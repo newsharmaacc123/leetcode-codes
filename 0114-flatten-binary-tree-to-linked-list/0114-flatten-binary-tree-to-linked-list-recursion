@@ -1,0 +1,10 @@
+ TreeNode * prev = NULL;
+    // TreeNode* curr = root;
+    void flatten(TreeNode* root) {
+    if(!root) return;
+    flatten(root->right);
+    flatten(root->left);
+    root->right = prev;
+    root->left = NULL;
+    prev = root;
+    }
