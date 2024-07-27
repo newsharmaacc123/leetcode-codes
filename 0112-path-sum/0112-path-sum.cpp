@@ -15,9 +15,8 @@ public:
     bool hasPathSum(TreeNode* root, int targetSum) {
         if(!root) return false;
         if((root->right==NULL)&&(root->left==NULL)&&(targetSum-root->val==0)) return true;
-        bool left = hasPathSum(root->left,targetSum-root->val); 
-        bool right = hasPathSum(root->right,targetSum-root->val); 
-        return left||right;
+        return hasPathSum(root->left,targetSum-root->val)+hasPathSum(root->right,targetSum-root->val); 
+         
 
     }
 };
