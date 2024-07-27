@@ -14,7 +14,16 @@ public:
     int minimumTotal(vector<vector<int>>& triangle) {
         int row = triangle.size();
         int col = triangle[row-1].size();
-        vector<vector<int>> dp(row,vector<int>(col,-1));
-        return cal(0,0,triangle,dp);
+        vector<vector<int>> dp(row,vector<int>(col,INT_MAX));
+        // return cal(0,0,triangle,dp);
+        for(int i=0;i<col;i++){
+            dp[row-1][i] = triangle[row-1][i];
+        }
+        for(int i=row-2;i>=0;i--){
+            for(int j=i;j>=0;j--){
+                dp[i][j] = triangle[i][j]+min(dp[i+1][j+1],dp[i+1][j]);
+            }
+        }
+        return dp[0][0];
     }
 };
