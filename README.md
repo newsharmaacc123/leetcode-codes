@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0102-binary-tree-level-order-traversal) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0102-binary-tree-level-order-traversal) |
@@ -219,5 +222,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
