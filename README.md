@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0967-minimum-falling-path-sum) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0967-minimum-falling-path-sum) |
