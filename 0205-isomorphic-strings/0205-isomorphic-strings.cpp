@@ -1,14 +1,24 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        int sT[256] = {0},tT[256]={0};
-        for(int i=0;i<s.size();i++){
-            if(sT[s[i]] !=tT[t[i]] ) return false;
-            else{
-                sT[s[i]]=i+1;
-                tT[t[i]]=i+1;
+         unordered_map<char, char> sT;
+        unordered_map<char, char> tS;
+
+        for (int i = 0; i < s.size(); i++) {
+            char cs = s[i];
+            char ct = t[i];
+
+            if (sT.find(cs) != sT.end() && sT[cs] != ct) {
+                return false;
             }
+            if (tS.find(ct) != tS.end() && tS[ct] != cs) {
+                return false;
+            }
+
+            sT[cs] = ct;
+            tS[ct] = cs;
         }
+
         return true;
     }
 };
