@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0747-min-cost-climbing-stairs) |
+| [0967-minimum-falling-path-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/1559-cherry-pickup-ii) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0747-min-cost-climbing-stairs) |
+| [0967-minimum-falling-path-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/newsharmaacc123/leetcode-codes/tree/master/1013-fibonacci-number) |
 | [1559-cherry-pickup-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/1559-cherry-pickup-ii) |
 ## Memoization
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/1559-cherry-pickup-ii) |
 ## Binary Search Tree
 |  |
