@@ -14,9 +14,8 @@ public:
         }
     }
     vector<vector<int>> combine(int n, int k) {
-        int start = 1;
         vector<int> num;
-        cal(start,n,k,num);
+        cal(1,n,k,num);
         return ans;
     }
 };
