@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0063-unique-paths-ii) |
@@ -259,5 +260,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
