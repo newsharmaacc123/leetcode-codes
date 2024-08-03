@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0046-permutations) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0202-happy-number) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0967-minimum-falling-path-sum) |
