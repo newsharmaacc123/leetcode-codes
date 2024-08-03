@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0090-subsets-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0202-happy-number) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0073-set-matrix-zeroes) |
 | [0967-minimum-falling-path-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/1559-cherry-pickup-ii) |
 ## Binary Search Tree
