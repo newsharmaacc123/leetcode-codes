@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0120-triangle) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0242-valid-anagram) |
 ## Counting
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/newsharmaacc123/leetcode-codes/tree/master/0086-partition-list) |
